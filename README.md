@@ -259,9 +259,6 @@ So, you should at least know what types of questions to expect.
 
 ## What you can ask the interviewer
 
-Don't ask them if you just want to make an impression because you will. And this is not going to be a very positive impression - asking by template without any enthusiasm. Instead, you should at least seem interested.
-What I also really like to do is to start doing 96 so after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
-
 ### Project
 
 - What project I will start with? Describe the problem it solves. Describe the technical stack chosen, why it is like that and which tasks I will be asked to solve there.
