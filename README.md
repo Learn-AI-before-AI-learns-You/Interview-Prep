@@ -13,7 +13,6 @@
     - [General](#general)
     - [Non-technical](#non-technical)
   - [What you can ask the interviewer](#what-you-can-ask-the-interviewer)
-    - [Company](#company)
     - [Project](#project)
 
 ## My vision
@@ -262,40 +261,6 @@ So, you should at least know what types of questions to expect.
 
 Don't ask them if you just want to make an impression because you will. And this is not going to be a very positive impression - asking by template without any enthusiasm. Instead, you should at least seem interested.
 What I also really like to do is to start doing 96 so after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
-
-### Company
-
-- Why have you left your last company for this?
-- How do you train/ramp up engineers who are new to the team?
-- Do you have your [onboarding process documented](https://twitter.com/housecor/status/1142153344179429378)?
-- Who is your ideal candidate and how can I make myself more like them?
-- Describe what Human Resources means to you.
-- How do you find the best talents? Are you focused on acquiring the best ones?
-- Do you have a shower to use at your place? Does anyone use it?
-- Do you have a library at your place? Name a few books there.
-- Do you have any teambuildings and what they look like?
-- Do you know anything about your employees' hobbies? What they are interested in?
-- Do you have any internal tech talks to improve the technical expertise of your employees? If so, who is in charge of that?
-- Do you use any time logging system?
-- Describe the paid vacations policy.
-- Describe the process of salary review/performance review. What are the factors included in forming my salary?
-- Do you have any competence matrix?
-- Will I be able to work remotely? If so, then how much time/month?
-- How flexible the schedule is?
-- What do you think of remote-async workflow?
-- How often will I have to over-time and how it's paid?
-- Which devices will I be provided to work with - laptops/PCs, monitors, smartphones for testings, etc?
-- Do you provide any insurance? If so, describe it briefly.
-- Do you offer parking space for your employees? For car/bike.
-- Do you have any probationary period for new employees?
-- Do you have something like 13th salary / any other bonuses?
-- What are the weaknesses of the organization?
-- What do you consider as the strongest advantage of your company over others?
-- What are the educational opportunities?
-- How often are 1:1s conducted?
-- What opportunities are available to switch roles? How does this work?
-- If you could change one thing about the company, whether it's a process, technology used, or anything else, what would it be?
-- What is the toughest problem company've faced so far, aside from not enough people, and how did you or plan to solve it?
 
 ### Project
 
